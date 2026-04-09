@@ -1,6 +1,3 @@
-# 6dof-robotic-arm-ros2
-Fully functional Customized 6-axis robotic arm — 3D printed, built and programmed with ROS2, Gazebo and MoveIt
-
 # 6-DOF Robotic Arm — ROS2 & MoveIt
 
 A fully functional 6-axis robotic arm, 3D printed and built 
