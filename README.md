@@ -46,3 +46,18 @@ from scratch.
 - Gazebo
 - Onshape (URDF)
 - 3D printing (FDM)
+
+
+- ## What I learned
+
+Building this arm taught me more than any course could. 
+Mechanical design on paper is very different from parts 
+that actually fit and move together. Electronics forced 
+me to think in systems — every component affects 
+everything else. ROS2 has a steep learning curve, but 
+once the simulation moved the way I intended, the logic 
+clicked. Most importantly, I learned that the hardest 
+part of building something real is not any single 
+technical problem — it is staying the course when 
+multiple things break at the same time. I will carry 
+that into every project I build next.
