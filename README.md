@@ -1,5 +1,5 @@
 # 6-DOF Robotic Arm — ROS2 & MoveIt
-
+![IMG_4833](https://github.com/user-attachments/assets/425a2e69-06a6-4667-a3d7-5afb3c5dcbca)
 A fully functional 6-axis robotic arm, 3D printed and built 
 from scratch as a hands-on learning project.
 
@@ -29,6 +29,7 @@ electronics background — learned through doing.
 - Built the URDF model using Onshape
 - Integrated Gazebo for simulation and MoveIt for 
   motion planning
+
 
 ## Purpose
 
